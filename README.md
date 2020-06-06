@@ -14,7 +14,7 @@ docker-compose up
 
 You should see confirmation that postgres started
 
-# Crete Fruit ( sample entity ) table inside the postgres
+# Creat Fruit ( sample entity ) table inside the postgres
 
 Connect to `adminer` : `http://localhost:18080/`
 
