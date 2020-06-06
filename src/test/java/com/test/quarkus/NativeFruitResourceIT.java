@@ -1,4 +1,4 @@
-package com.mbronshteyn.quarkus;
+package com.test.quarkus;
 
 import io.quarkus.test.junit.NativeImageTest;
 

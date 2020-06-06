@@ -1,7 +1,7 @@
-package com.mbronshteyn.quarkus.dao;
+package com.test.quarkus.dao;
 
-import com.mbronshteyn.quarkus.entity.Fruit;
-import com.mbronshteyn.quarkus.entity.mapping.FruitMapper;
+import com.test.quarkus.entity.Fruit;
+import com.test.quarkus.entity.mapping.FruitMapper;
 import org.jdbi.v3.sqlobject.config.RegisterBeanMapper;
 import org.jdbi.v3.sqlobject.config.RegisterRowMapper;
 import org.jdbi.v3.sqlobject.customizer.Bind;

@@ -1,9 +1,9 @@
-package com.mbronshteyn.quarkus.service;
+package com.test.quarkus.service;
 
 import com.google.common.flogger.FluentLogger;
-import com.mbronshteyn.quarkus.bl.DatabaseConnector;
-import com.mbronshteyn.quarkus.dao.FruitDao;
-import com.mbronshteyn.quarkus.entity.Fruit;
+import com.test.quarkus.bl.DatabaseConnector;
+import com.test.quarkus.dao.FruitDao;
+import com.test.quarkus.entity.Fruit;
 import org.jdbi.v3.core.Jdbi;
 
 import javax.enterprise.context.ApplicationScoped;

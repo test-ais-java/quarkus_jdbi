@@ -1,10 +1,10 @@
-package com.mbronshteyn.quarkus;
+package com.test.quarkus;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.mbronshteyn.quarkus.controller.FruitResource;
-import com.mbronshteyn.quarkus.entity.Fruit;
-import com.mbronshteyn.quarkus.service.FruitService;
-import com.mbronshteyn.quarkus.util.ResponseObject;
+import com.test.quarkus.controller.FruitResource;
+import com.test.quarkus.entity.Fruit;
+import com.test.quarkus.service.FruitService;
+import com.test.quarkus.util.ResponseObject;
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

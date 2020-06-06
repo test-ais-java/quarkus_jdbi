@@ -1,6 +1,6 @@
-package com.mbronshteyn.quarkus.entity.mapping;
+package com.test.quarkus.entity.mapping;
 
-import com.mbronshteyn.quarkus.entity.Fruit;
+import com.test.quarkus.entity.Fruit;
 import org.jdbi.v3.core.mapper.RowMapper;
 import org.jdbi.v3.core.statement.StatementContext;
 

@@ -1,9 +1,9 @@
-package com.mbronshteyn.quarkus.controller;
+package com.test.quarkus.controller;
 
 import com.google.common.flogger.FluentLogger;
-import com.mbronshteyn.quarkus.entity.Fruit;
-import com.mbronshteyn.quarkus.service.FruitService;
-import com.mbronshteyn.quarkus.util.ResponseObject;
+import com.test.quarkus.entity.Fruit;
+import com.test.quarkus.service.FruitService;
+import com.test.quarkus.util.ResponseObject;
 import lombok.Setter;
 
 import javax.enterprise.context.ApplicationScoped;

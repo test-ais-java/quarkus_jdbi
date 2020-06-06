@@ -1,4 +1,4 @@
-package com.mbronshteyn.quarkus.bl;
+package com.test.quarkus.bl;
 
 import com.google.common.flogger.FluentLogger;
 import com.zaxxer.hikari.HikariConfig;

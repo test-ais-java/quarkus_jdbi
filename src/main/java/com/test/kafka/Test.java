@@ -1,4 +1,4 @@
-package com.mbronshteyn.kafka;
+package com.test.kafka;
 
 import reactor.core.publisher.Flux;
 import reactor.core.scheduler.Schedulers;

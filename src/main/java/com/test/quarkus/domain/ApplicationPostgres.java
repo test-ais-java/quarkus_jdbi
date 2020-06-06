@@ -1,4 +1,4 @@
-package com.mbronshteyn.quarkus.domain;
+package com.test.quarkus.domain;
 
 public class ApplicationPostgres {
 

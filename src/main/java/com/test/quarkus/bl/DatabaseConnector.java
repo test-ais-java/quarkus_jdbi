@@ -1,4 +1,4 @@
-package com.mbronshteyn.quarkus.bl;
+package com.test.quarkus.bl;
 
 import org.jdbi.v3.core.Jdbi;
 import org.jdbi.v3.postgres.PostgresPlugin;

@@ -1,4 +1,4 @@
-package com.mbronshteyn.kafka;
+package com.test.kafka;
 
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;

@@ -1,21 +1,18 @@
-package com.mbronshteyn.quarkus.util;
+package com.test.quarkus.entity;
 
-import com.mbronshteyn.quarkus.entity.Fruit;
 import io.quarkus.runtime.annotations.RegisterForReflection;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.List;
-
 @Data
-@Builder
 @NoArgsConstructor
 @AllArgsConstructor
+@Builder
 @RegisterForReflection
-public class ResponseObject {
-    String msg;
-    Fruit fruit;
-    List<Fruit> fruitList;
+public class Fruit {
+    public String uuid;
+    public String name;
+    public String description;
 }
